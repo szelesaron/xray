@@ -1,2 +1,3 @@
 # xray
-having fun with the pneumonia xray dataset
+Having fun with the pneumonia xray dataset.
+https://www.kaggle.com/pcbreviglieri/pneumonia-xray-images
